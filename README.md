@@ -35,4 +35,4 @@
 
 ### Final Analysis 
 
-* Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? 
+Based on the findings cryptocurrencies cannot be clustered together. There are no distinct clusters using PCA at 90% or after reducing dimensions with t-SNE. 
